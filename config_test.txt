@@ -1,0 +1,15 @@
+project_title: test
+
+category: ekspresy cisnieniowe
+initial_link: https://www.mediaexpert.pl/agd-male/ekspresy-i-kawa/ekspresy-cisnieniowe?page=1
+n_pages: span from
+offer_boxes: div offer-box
+title: a is-animate spark-link
+href: a is-animate spark-link
+is_available: div offer-available
+price_1: omnibus span omnibus omnibus-price is-regular omnibus is-mobile is-small
+price_2: old_price div old-price
+price_3: main_price div main-price is-big
+price_4: regular_price div main-price price-regular
+price_5: code_price div main-price for-action-price
+wrong_bytes: \u2b50 \u27a4 \u202f
